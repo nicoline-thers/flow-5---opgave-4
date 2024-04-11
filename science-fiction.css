@@ -1,0 +1,33 @@
+.img {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.navbar-brand {
+    font-family: bungee, sans-serif;
+    font-size: 18px;
+}
+
+.card-title {  
+    font-family: "bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bg-body-tertiary {
+    background-color: #FC6530 !important;
+}
+.container {
+    margin-top: 15px;
+}
+
+footer {
+    background-color: #FC6530;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    margin-top: 15px;
+}
+
